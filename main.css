@@ -1,0 +1,202 @@
+.container-fluid {
+
+	width: 100%;
+	height: 2000px;
+	background-color: gray;
+	position: relative;
+
+}
+.logo {
+
+	width: 200px;
+	height: 80px;
+	margin-top: 20px;
+	margin-left: 150px;
+}
+.full {
+
+	background-color: #e6e6e6;
+	width: 903px;
+	height: 1599px;
+	margin-top: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+	border: 1px solid #e6e6e6;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	position: absolute;
+
+}
+.nav {
+
+	background-color: red;
+	width: 900px;
+	height: 60px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	display: flex;
+	justify-content: space-between;
+
+
+
+}
+.navbar-nav, .navbar {
+
+	display: inline-block;
+	
+
+}
+.navbar {
+
+	color: white;
+	width: 120px;
+	margin-left: 50px;
+	margin-top: 10px;
+	
+
+}
+
+
+
+.jumb {
+
+	height: 450px;
+
+
+
+}
+#jumbotron {
+	height: 450px;
+	background-color: #ffd11a;
+
+
+}
+#mybtn {
+	background-color: red;
+	border: 2px solid red;
+}
+
+.box {
+
+	background-color: #e6e6e6;
+	margin-top: 10px;
+	width: 900px;
+	height: 296px;
+	
+}
+.row {
+
+	margin-left: 0px;
+}
+.box1 {
+
+	background-color: gray;
+	width: 286px;
+	height: 286px;
+	margin-left: 10px;
+}
+.box2 {
+	background-color: gray;
+	width: 286px;
+	height: 286px;
+	margin-left: 10px;
+}
+.box3 {
+	background-color: gray;
+	width: 286px;
+	height: 286px;
+	margin-left: 10px;
+}
+.b {
+
+	
+	margin: 20px;
+	color: white;
+	font-size: 14px;
+}
+
+.main {
+	height: 450px;
+	background-color: #e6e6e6;
+
+
+
+}
+.nav1 {
+
+	width: 250px;
+	height: 450px;
+	background-color: #e6e6e6;
+	margin-top: 30px;
+
+}
+.navv1, .navv {
+
+	list-style: none;
+	
+}
+.navv {
+
+	color: gray;
+	height: 50px;
+	font-size: 1.2em;
+	margin-left: 60px;
+
+}
+.border1 {
+	border-left: 2px solid gray;
+	height: 440px;
+	margin-top: 20px;
+}
+.text1 {
+
+	width: 400px;
+	height: 450px;
+	background-color: #e6e6e6;
+}
+.t {
+
+	margin: 30px;
+	font-size: 16px;
+	color: gray;
+}
+.folder {
+
+	width: 130px;
+	height: 130px;
+	margin-top: 30px;
+}
+.file {
+	width: 130px;
+	height: 130px;
+	margin-top: 20px;
+}
+.trash {
+	width: 130px;
+	height: 130px;
+	margin-top: 20px;
+}
+.end {
+	width: 900px;
+	height: 300px;
+	background-color: red;
+	margin-top: 30px;
+	
+}
+.menagment {
+	width: 400px;
+	height: 300px;
+	font-size: 15px;
+	margin-right: 30px;
+	margin-left: 20px;
+	margin-top: 20px; 
+	color: white;
+}
+.market {
+	width: 400px;
+	height: 300px;
+	font-size: 15px;
+	margin-left: 30px;
+	margin-top: 20px;
+	color: white;
+}
